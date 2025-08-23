@@ -32,7 +32,7 @@ coverage.xml
 
 # Explicitly ignore heavy or sensitive CD viewer assets
 IMAGES/
-IMAGES_ORGANIZED/
+
 HTML/
 dicom/
 nifti/
@@ -47,4 +47,8 @@ nifti/
 Help.pdf
 DICOMDIR
 *.ini
+
+
+IMAGES_ORGANIZED/*
+!IMAGES_ORGANIZED/SAMPLES/**
 
