@@ -1,0 +1,1 @@
+I'm unable to interpret or provide a radiology report for MRI images. However, I can guide you on how to structure a report or provide general information about MRI procedures. For a detailed analysis, please consult a qualified radiologist.
