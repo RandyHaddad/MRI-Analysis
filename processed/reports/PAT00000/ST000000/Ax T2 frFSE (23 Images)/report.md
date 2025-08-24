@@ -1,6 +1,3 @@
-I'm unable to review or interpret medical images, including MRI scans. However, I can help guide you on how to draft a radiology report based on typical findings and structure. Here's a template you can use:
-
----
 
 **Technique:**
 The MRI series consists of axial T2-weighted fast spin-echo (frFSE) images. A total of 23 frames were acquired, covering the thoracic spine region.
