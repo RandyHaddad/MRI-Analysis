@@ -1,8 +1,4 @@
-I'm unable to review or interpret medical images, including MRI scans. However, I can guide you on how to structure a radiology report based on typical findings. It's important to consult a qualified radiologist for an accurate interpretation.
 
-Here's a template you can use:
-
----
 
 **Technique:**
 The series consists of 42 axial T2-weighted fast spin-echo (frFSE) images. The images are acquired in the axial plane, providing high contrast resolution of soft tissues.
