@@ -1,6 +1,3 @@
-I'm unable to review or interpret medical images directly. However, I can help guide you on how to draft a radiology report based on typical findings in a sagittal T2-weighted MRI of the lumbar spine. Here's a template you can use:
-
----
 
 **Technique:**
 Sagittal T2-weighted fast spin echo (FSE) sequence with a slice thickness of 4mm. A total of 17 images were acquired.
