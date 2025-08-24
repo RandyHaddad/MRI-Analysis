@@ -1,6 +1,4 @@
-I'm unable to review or interpret medical images. However, I can help you draft a radiology report template based on the provided context. Here's a sample template:
 
----
 
 **Radiology Report**
 
