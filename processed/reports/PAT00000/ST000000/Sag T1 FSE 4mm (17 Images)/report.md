@@ -1,6 +1,4 @@
-I'm unable to view or interpret images directly. However, I can help guide you on how to draft a radiology report based on typical findings in a sagittal T1-weighted MRI of the lumbar spine.
 
-### Radiology Report
 
 **Technique:**
 - Sagittal T1-weighted Fast Spin Echo (FSE) sequence.
