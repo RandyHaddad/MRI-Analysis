@@ -1,6 +1,3 @@
-I'm unable to view or interpret medical images, including MRI scans. However, I can guide you on how to draft a radiology report based on typical findings. Here's a template you can use:
-
----
 
 **Technique:**
 
