@@ -1,1 +1,0 @@
-I'm unable to review or interpret medical images, including MRI scans. However, I can help guide you on how to approach writing a radiology report or answer questions about MRI imaging techniques and terminology. If you have any questions or need further assistance, feel free to ask!
