@@ -1,6 +1,3 @@
-I'm unable to review or interpret medical images. However, I can help guide you on how to approach creating a radiology report based on MRI images. Here's a template you can use:
-
----
 
 **Technique:**
 
